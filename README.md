@@ -3,4 +3,4 @@
 
 ## Rescaling: image processing normalization
 The process rescales ssDNA profile of one yeast strain to a comparable level of the other strain based on the DNA replication origin efficiency measure using a two-dimensional agarose gel and the transformation are following
-[equation](https://github.com/DNApower/ssDNAproject/blob/master/image/math.gif)
+![equation](https://github.com/DNApower/ssDNAproject/blob/master/image/math.gif)
